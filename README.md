@@ -37,7 +37,9 @@ Install Python 3.6 or higher
 Make sure sentences.txt is in the same folder as main.py
 
 Run the app:
+```
 python main.py
+```
 
 ⌨️ Controls
 - 🖱 Start typing: Timer starts on your first keystroke
