@@ -19,8 +19,8 @@ A simple Python GUI app that helps you practice and improve your typing speed an
 ---
 
 ## 📁 File Structure
-Average-typing/
 ```
+Average-typing/
 ├── main.py # Main script to run the GUI app
 ├── sentences.txt # Text file containing practice sentences
 ├── README.md # This file
